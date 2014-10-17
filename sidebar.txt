@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[djr:home|Door43 (djr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-djr|d43-djr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-djr/archive/master.zip|d43-djr.zip]]
+
+**Recent Changes**
+{{changes>ns = djr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/djr|Ethnologue data]]
+
